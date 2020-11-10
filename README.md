@@ -8,4 +8,5 @@
 
 ### ⚡ Technologies
 
-![Vuejs](https://assets.codepen.io/t-1003/internal/avatars/teams/default.png?format=auto&height=256&version=1513627136&width=64)
+![Vuejs](https://assets.codepen.io/t-1003/internal/avatars/teams/default.png?format=auto&height=256&version=1513627136&width=32)
+![JS](https://raw.githubusercontent.com/Crifesma/Crifesma/main/vscode%2Bicons%2Btype%2Bjs%2Bofficial-1324451337700789263_32.png)
