@@ -5,3 +5,5 @@ Habilidades
 Lenguajes de programación: JavaScript, TypeScript, C#, Net Core, SQL, Python.
 Frameworks y herramientas: Vuejs, Angular, React, node js, express, Entity Framework, CD/CI, Azure, Docker, Sequelize, Electron.
 Idiomas: Ingles, Basic; Español, Nativo; 
+
+les dejo mi linkedin https://www.linkedin.com/in/crifesma
